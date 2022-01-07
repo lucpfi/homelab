@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T20:48:32.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="oaXC29Kk5kDcimIsUXRE" version="16.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T20:49:39.022Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="A3MTO8ERNag4jeWoBBfE" version="16.2.3" type="github">
   <diagram id="3EuarJ47rFNOUN-i4bVP" name="Page-1">
-    <mxGraphModel dx="746" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="696" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-67" value="vmbr2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1540" y="-30" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YpUXDpQcDBUKk7m2N4F_-70" value="10.0.0.2/24&lt;br&gt;v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="YpUXDpQcDBUKk7m2N4F_-70" value="10.0.0.6/24&lt;br&gt;v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1280" y="-60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-71" value="v2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
@@ -303,7 +303,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-109" value="v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=19;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="610" y="220" width="60" height="40" as="geometry" />
+          <mxGeometry x="660" y="210" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YpUXDpQcDBUKk7m2N4F_-110" value="10.0.0.5/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=22;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="540" y="930" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
