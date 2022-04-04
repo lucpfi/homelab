@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T11:18:34.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="IUUjQ_L7Wg5YzHbFd2jk" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T11:19:06.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Hczxu8tloXLmXEED0Elf" version="17.4.0" type="github">
   <diagram id="3EuarJ47rFNOUN-i4bVP" name="Page-1">
-    <mxGraphModel dx="3172" dy="2895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3749" dy="3209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YpUXDpQcDBUKk7m2N4F_-10" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="370" width="60" height="30" as="geometry" />
+        <mxCell id="YpUXDpQcDBUKk7m2N4F_-10" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-13" value="Vodafone&lt;br style=&quot;font-size: 22px;&quot;&gt;192.168.1.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="327" y="422.5" width="60" height="30" as="geometry" />
