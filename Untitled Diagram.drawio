@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T11:13:43.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="1Gg_iTvQchFAKNsiV0In" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T11:16:40.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="jmIWRXsb2Wvu-g4Hviy-" version="17.4.0" type="github">
   <diagram id="3EuarJ47rFNOUN-i4bVP" name="Page-1">
-    <mxGraphModel dx="4582" dy="3662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3172" dy="2895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-13" value="Vodafone&lt;br style=&quot;font-size: 22px;&quot;&gt;192.168.1.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="320" y="422.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="327" y="422.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-14" value="Fritz Box&lt;br style=&quot;font-size: 22px;&quot;&gt;192.168.1.8/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="445" y="630" width="90" height="30" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="1170" y="-180" width="710" height="490" as="geometry" />
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-17" value="pve" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1185" y="-200" width="90" height="80" as="geometry" />
+          <mxGeometry x="1170" y="-200" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;strokeWidth=5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.238;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="YpUXDpQcDBUKk7m2N4F_-24" target="YpUXDpQcDBUKk7m2N4F_-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -374,6 +374,21 @@
         </mxCell>
         <mxCell id="xTW23OP_aZaTEn6wsU-4-13" value="1:1 NAT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2068" y="410" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xTW23OP_aZaTEn6wsU-4-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Power.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-322" width="24.59" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xTW23OP_aZaTEn6wsU-4-15" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Power.svg;" vertex="1" parent="1">
+          <mxGeometry x="328" y="-120" width="24.59" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xTW23OP_aZaTEn6wsU-4-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Power.svg;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="-642" width="24.59" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xTW23OP_aZaTEn6wsU-4-17" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Power.svg;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="130" width="24.59" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xTW23OP_aZaTEn6wsU-4-18" value="POE Active" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="130" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
