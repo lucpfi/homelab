@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T11:16:40.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="jmIWRXsb2Wvu-g4Hviy-" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T11:18:34.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="IUUjQ_L7Wg5YzHbFd2jk" version="17.4.0" type="github">
   <diagram id="3EuarJ47rFNOUN-i4bVP" name="Page-1">
     <mxGraphModel dx="3172" dy="2895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1170" y="-180" width="710" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="YpUXDpQcDBUKk7m2N4F_-17" value="pve" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="-200" width="90" height="80" as="geometry" />
+        <mxCell id="YpUXDpQcDBUKk7m2N4F_-17" value="dell r720 - pve.lucas.network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="-180" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;strokeWidth=5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.238;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="YpUXDpQcDBUKk7m2N4F_-24" target="YpUXDpQcDBUKk7m2N4F_-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -86,10 +86,10 @@
           <mxGeometry x="1300" y="925" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="355" width="330" height="295" as="geometry" />
+          <mxGeometry x="1200" y="355" width="460" height="295" as="geometry" />
         </mxCell>
-        <mxCell id="YpUXDpQcDBUKk7m2N4F_-41" value="PBS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="355" width="60" height="40" as="geometry" />
+        <mxCell id="YpUXDpQcDBUKk7m2N4F_-41" value="dell optiplex 5050 - backup.lucas.network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="355" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YpUXDpQcDBUKk7m2N4F_-42" value="ig0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="1130" y="550" width="90" height="35" as="geometry" />
